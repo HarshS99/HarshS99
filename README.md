@@ -96,12 +96,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshs99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://imgs.search.brave.com/M9o3VYP3o3lGFusGjtWLB1VjDeeuj62MkisS6hdLVEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9ODAwLGhl/aWdodD0sZml0PXNj/YWxlLWRvd24sZ3Jh/dml0eT1hdXRvLGZv/cm1hdD1hdXRvL2h0/dHBzOi8vZGV2LXRv/LXVwbG9hZHMuczMu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL2Fy/dGljbGVzL2NxeWZ5/ZXQ2dGZ0MGtqNmVo/djkyLnBuZw" />
   <img width="48%" src="https://streak-stats.demolab.com?user=harshs99&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshs99&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="40%" src="https://imgs.search.brave.com/Tr9RLozTZ-FnvCHCu7buPL53srSeL9XLh8W6XNT3pTo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9kZXYtZ2l0LkpQ/Rw" />
 </p>
 
 ---
@@ -109,7 +109,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshs99&theme=tokyonight&no-frame=true&margin-w=6" />
+  <img src="https://imgs.search.brave.com/ibYOkOj2RWZluE092hNuyvLhwf7bwvMpxFo7XchIMN8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXJr/b2ZmLmNvbS9hc3Nl/dHMvaW1hZ2VzL3Bv/c3RzLzIwMjQvMDAw/MDItMi5qcGc" />
 </p>
 
 ---
