@@ -106,11 +106,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://imgs.search.brave.com/ibYOkOj2RWZluE092hNuyvLhwf7bwvMpxFo7XchIMN8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXJr/b2ZmLmNvbS9hc3Nl/dHMvaW1hZ2VzL3Bv/c3RzLzIwMjQvMDAw/MDItMi5qcGc" />
-</p>
 
 ---
 
