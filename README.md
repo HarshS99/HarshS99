@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Singh;Frontend+Developer;AI%2FML+Engineer;Agentic+AI+Builder;Open+Source+Contributor" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=harshs99&label=Profile+Views&color=6C63FF&style=for-the-badge" />
-<a href="https://twitter.com/harsh_sing97764">
-<img src="https://img.shields.io/twitter/follow/harsh_sing97764?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
+<img src="https://komarev.com/ghpvc/?username=harshs99&label=Profile+Views&color=6C63FF&style=for-the-badge" /><a href="https://twitter.com/harsh_sing97764"><img src="https://img.shields.io/twitter/follow/harsh_sing97764?logo=twitter&style=for-the-badge&color=1DA1F2" /></a>
 <img src="https://img.shields.io/github/followers/harshs99?style=for-the-badge&color=6C63FF" />
 
 </div>
